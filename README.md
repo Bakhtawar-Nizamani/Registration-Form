@@ -31,16 +31,19 @@ This project collects student, academic, course, and emergency contact informati
    - Email Address
    - Phone Number
    - Home Address
+     
 🎓 Academic Information
   - School / College / University Name
   - Current Qualification
   - Grade / Semester
   - Previous Academic Result
+    
 📚 Course Details
   - Course Name
   - Course Duration
   - Preferred Batch Timing
   - Mode of Learning
+    
 🚨 Emergency Contact
   - Emergency Contact Name
   - Contact Number
