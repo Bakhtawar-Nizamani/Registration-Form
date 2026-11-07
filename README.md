@@ -63,19 +63,6 @@ Try the form here: **https://bakhtawar-nizamani.github.io/Registration-Form/**
 ### Declaration
 - Confirmation by the student before submitting
 
-## Getting Started
-
-No installation or build tools needed.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   ```
-2. Open the project folder:
-   ```bash
-   cd <your-repo-name>
-   ```
-3. Open `index.html` in any web browser.
 
 ##  Concepts Practiced
 
@@ -91,4 +78,4 @@ No installation or build tools needed.
 
 **Bakhtawar Nizamani**
 
-- GitHub: [@<your-username>](https://github.com/Bakhtawar-Nizamani)
+- GitHub: https://github.com/Bakhtawar-Nizamani
