@@ -1,12 +1,11 @@
-# 📝 Course Registration Form
+# Course Registration Form
 
 A simple, beginner-friendly course registration form built with pure HTML. It collects student, academic, course, and emergency contact details through a clean, structured layout.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-🔗 **Live Demo:** [View the deployed form](https://<your-username>.github.io/<your-repo-name>/)
+🔗 **Live Demo:** [View the deployed form](https://bakhtawar-nizamani.github.io/Registration-Form/)
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Live Demo](#-live-demo)
 - [Features](#-features)
@@ -16,11 +15,11 @@ A simple, beginner-friendly course registration form built with pure HTML. It co
 - [Concepts Practiced](#-concepts-practiced)
 - [Author](#-author)
 
-## 🌐 Live Demo
+## Live Demo
 
-Try the form here: **[https://<your-username>.github.io/<your-repo-name>/](https://<your-username>.github.io/<your-repo-name>/)**
+Try the form here: **https://bakhtawar-nizamani.github.io/Registration-Form/**
 
-## ✨ Features
+## Features
 
 - Student, Academic, and Course Details sections
 - Emergency Contact and Declaration sections
@@ -29,13 +28,13 @@ Try the form here: **[https://<your-username>.github.io/<your-repo-name>/](https
 - Required input validation
 - Clean grouping with `<fieldset>` and `<legend>`
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5
 
-## 📋 Form Sections
+## Form Sections
 
-### 👤 Student Information
+### Student Information
 - Full Name
 - Father's / Guardian's Name
 - Date of Birth
@@ -45,26 +44,26 @@ Try the form here: **[https://<your-username>.github.io/<your-repo-name>/](https
 - Phone Number
 - Home Address
 
-### 🎓 Academic Information
+### Academic Information
 - School / College / University Name
 - Current Qualification
 - Grade / Semester
 - Previous Academic Result
 
-### 📚 Course Details
+### Course Details
 - Course Name
 - Course Duration
 - Preferred Batch Timing
 - Mode of Learning
 
-### 🚨 Emergency Contact
+### Emergency Contact
 - Emergency Contact Name
 - Contact Number
 
-### ✅ Declaration
+### Declaration
 - Confirmation by the student before submitting
 
-## 🚀 Getting Started
+## Getting Started
 
 No installation or build tools needed.
 
@@ -78,7 +77,7 @@ No installation or build tools needed.
    ```
 3. Open `index.html` in any web browser.
 
-## 📚 Concepts Practiced
+##  Concepts Practiced
 
 - HTML forms
 - Input types
@@ -88,8 +87,8 @@ No installation or build tools needed.
 - Fieldsets and legends
 - Form validation
 
-## 👩‍💻 Author
+## Author
 
 **Bakhtawar Nizamani**
 
-- GitHub: [@<your-username>](https://github.com/<your-username>)
+- GitHub: [@<your-username>](https://github.com/Bakhtawar-Nizamani)
